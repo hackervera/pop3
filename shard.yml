@@ -1,0 +1,13 @@
+name: pop3
+version: 0.1.0
+
+authors:
+  - Tyler Gillies <tjgillies@gmail.com>
+
+targets:
+  pop3:
+    main: src/pop3.cr
+
+crystal: 0.20.3+2
+
+license: MIT
